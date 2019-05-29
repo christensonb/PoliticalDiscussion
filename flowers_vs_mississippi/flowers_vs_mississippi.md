@@ -37,7 +37,7 @@ Links
 Case Data Points
 ----------------
 
-1. Two of the previous cases were thrown out because of Bastson violation.
+1. Two of the previous cases were thrown out because of Batson violation.
 
 2. Mississippi SC ruled that there was no history in this case [pg. 24.21]
 
@@ -70,4 +70,34 @@ Case Data Points
     - worked with the defendant father at a small walmart [pg. 36.23]
     - was asked a lot of questions
     - was struck
-   
+
+10. Mr. Evans tried to change the law such that he could try the case in another 
+    district.
+
+11. The state could not move the case to another district without Mr. Evans 
+    giving the case up to another prosecutor.
+    
+
+Conclusion
+==========
+
+Ben
+---
+I disagree with the Mississippi SC that there wasn't history.  I think its 
+fairly straight forward and obvious that if there were two other cases of 
+Batson then there is history of Batson.
+
+I also strongly disagree with SC Justice Breyer that Mr. Evans act of excluding 
+Ms. Wright over Ms. Chesteen proves Batson.  I don't think it is reasonable to 
+say that give those two jurors (minus race) that a prosecutor wouldn't have 
+struck down Ms. Wright over Ms. Chesteen.
+
+I do agree this case falls under Batson violation, not because of what the 
+prosecutor did but because of what he didn't do; which is to not question the 
+white jurors or to say he investigated white jurors.
+
+That being said I don't this Mr. Flowers is a victim, I think the community is
+the victim, and the prosecutor should be retired for not moving the case to 
+another district.  This would have required letting another person win his case, 
+and although I can understand how that is hard on him he should have been 
+professional and done what was in the best interest of the state.
