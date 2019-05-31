@@ -198,3 +198,11 @@ the victim, and the prosecutor should be retired for not moving the case to
 another district.  This would have required letting another person win his case, 
 and although I can understand how that is hard on him he should have been 
 professional and done what was in the best interest of the state.
+
+Chris
+-----
+
+After a prosecutor has a mistrial from a Batson violation then that prosecutor 
+should be retired because they could never strike a black juror; whether it was
+a good strike or not.
+
