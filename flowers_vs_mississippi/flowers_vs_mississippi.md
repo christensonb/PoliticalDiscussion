@@ -154,6 +154,26 @@ conviction. Two years later, the U.S. Supreme Court told state
 justices to take another look, particularly on whether there 
 was discrimination in how some black potential jurors were excluded.
 
+Poll
+====
+Hypothetical situation you are a prosecutor in a murder trial of a small town.
+There are only two potential jurors left which of the two do you pick.
+
+Juror A:
+- woman in her mid-40s with some college
+- said she was strongly in favor of the death penalty  
+- knew the defendants family from her job as a bank teller were the family did 
+  business.
+- had been a friend of the victims daughter in high school
+
+Juror B:
+- woman in her mid-40s with some college
+- said she was strongly in favor of the death penalty  
+- was sued by the victims son-inlaw for overdue credit of $30
+- worked with the defendants father at a small walmart, but said she didn't 
+  know if he still worked there
+
+
 Conclusion
 ==========
 
@@ -166,7 +186,8 @@ Batson then there is history of Batson.
 I also strongly disagree with SC Justice Breyer that Mr. Evans act of excluding 
 Ms. Wright over Ms. Chesteen proves Batson.  I don't think it is reasonable to 
 say that give those two jurors (minus race) that a prosecutor wouldn't have 
-struck down Ms. Wright over Ms. Chesteen.
+struck down Ms. Wright over Ms. Chesteen.  Having asked five 3rd-parties of the 
+two jurors which would you pick 4 picked as Mr. Evans and the 5th abstained.
 
 I do agree this case falls under Batson violation, not because of what the 
 prosecutor did but because of what he didn't do; which is to not question the 
